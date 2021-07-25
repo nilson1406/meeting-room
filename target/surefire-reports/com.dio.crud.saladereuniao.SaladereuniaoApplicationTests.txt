@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.dio.crud.saladereuniao.SaladereuniaoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.194 s - in com.dio.crud.saladereuniao.SaladereuniaoApplicationTests
